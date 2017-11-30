@@ -17,16 +17,16 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * index.html página principal
 * about.html página secundària de "acerca de"
 * comesjuga.html pàgina secundària amb les instruccions
-* validator_w3_org.pdf
 
 ----
 ## Discriminació de pàgina d'estils segons el tipus de pantalla.
 * Hem utilitzat la utilitat de media query per tal de discriminar pel tamany de la pantalla si es tracta d'una visualització tipus desktop o bé una tipus mòbil o tablet.
 * El codi utilitzat és:
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='stylesheet' media='screen and (min-width: 961px)' href='css/d.css'>
-    <link rel='stylesheet' media='screen and (max-width: 960px)' href='css/m.css'>
+* <meta name="viewport" content="width=device-width, initial-scale=1.0">
+* <link rel='stylesheet' media='screen and (min-width: 961px)' href='css/d.css'>
+* <link rel='stylesheet' media='screen and (max-width: 960px)' href='css/m.css'>
 * Segons el tipus activarà la página d'estils d.css (desktop) o m.css (mòbil)  
+* Al fitxer m.css hem reduit el tamany dels div i el tamany de lletra per a les etiquetes tipus paràgraf i header.
 
 ----
 ## Utilització de tinypng per comprimir i optimitzar les imatges.
@@ -68,7 +68,9 @@ El resultat és el que s'adjunta al fitxer validator_w3_org.pdf
 
 ----
 ## Bibiliografia
-* Imatges descarregades de lliure distribució. 
+* Imatges descarregades de lliure distribució del projecte apollo. https://www.flickr.com/photos/projectapolloarchive/
 * https://tinypng.com/
 * https://pixlr.com/editor/
 * https://www.markdowntutorial.com/
+* https://www.minifier.org/ per minifier de css
+* http://kangax.github.io/html-minifier/ per minifier de html
