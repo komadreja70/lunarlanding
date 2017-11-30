@@ -1,7 +1,7 @@
 # tema_2_3_lunarlanding
 Projecte lunar landing - tema 2 tassca número 3
 
-> Introducció al HTML. Enllaç de rawgit https://rawgit.com/komadreja70/lunarlanding/master/index.html 
+> Introducció al CSS. Enllaç de rawgit https://rawgit.com/komadreja70/lunarlanding/master/index.html 
 
 ----
 ## Tasques prèvies amb les imatges
