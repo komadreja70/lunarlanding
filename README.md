@@ -17,6 +17,9 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * index.html página principal
 * about.html página secundària de "acerca de"
 * comesjuga.html pàgina secundària amb les instruccions
+* d_css_minifier.png resultat del minifier de d.css
+* m_css_minifier.png resultat del minifier de m.css
+* html_minifier.png resultat del minifier del html index.html
 
 ----
 ## Discriminació de pàgina d'estils segons el tipus de pantalla.
