@@ -20,6 +20,9 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * d_css_minifier.png resultat del minifier de d.css
 * m_css_minifier.png resultat del minifier de m.css
 * html_minifier.png resultat del minifier del html index.html
+* html validator.pdf resultat del validador html
+* d_css_validator.pdf resultat del validador css(desktop)
+* m_css_validator.pdf resultat del validador css (mòbil)
 
 ----
 ## Discriminació de pàgina d'estils segons el tipus de pantalla.
